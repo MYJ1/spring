@@ -1,0 +1,3 @@
+userService=com.mm.service.impl.UserServiceImpl
+myUserDao=com.mm.dao.UserDaoOracleImpl
+userService.userDao=myUserDao
