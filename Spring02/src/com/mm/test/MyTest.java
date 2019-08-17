@@ -9,7 +9,7 @@ import com.mm.service.SomeService;
 public class MyTest {
 
 
-	public static void main(String[] args) { 
+	public static void main(String[] args) {
 		//指定容器的配置文件
 		String resources = "application.xml";
 		//创建spring容器对象】
